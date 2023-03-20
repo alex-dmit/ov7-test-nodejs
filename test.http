@@ -1,0 +1,5 @@
+GET http://localhost:3333/find-nums/10000000
+
+###
+
+GET http://localhost:3333/find-all-nums/3
